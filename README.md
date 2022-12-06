@@ -1,2 +1,2 @@
-# FakeData
-Fake Data Generator using Faker
+# FakeData Generator
+uses Faker from https://faker.readthedocs.io/en/master/
